@@ -1,11 +1,9 @@
 /*
         HOTEL MANAGEMENT SYSTEM
-
-        DEVELOPED BY            ROLL NO
-        M.ASWIN KISHORE           09
-        ANSAF NIYAZ               08
-
-        CLASS:XII A
+        
+        DEVELOPED BY          
+        M.ASWIN KISHORE           
+        ANSAF NIYAZ               
 
         IDE:CODE BLOCKS 17.12
         COMPILER:GNU GCC
