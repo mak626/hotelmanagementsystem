@@ -1,6 +1,7 @@
 # HOTEL MANAGEMENT SYSTEM
 A Hotel Mangement System Developed using C++
 
+------------
 ### Features:
 - XOR Password protection
 - Organized display of room, prices and customer detail searching
